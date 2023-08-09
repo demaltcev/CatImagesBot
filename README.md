@@ -1,6 +1,6 @@
 #JavaTelegramBot
 
-https://t.me/CatImagesBot - this is my example of longpolling bot. He is still working.
+https://t.me/CatImagesBot - this is my example of longpolling bot. He is still working. This bot sending random cat images to you in 12am and 20pm accroding to Moscow time.
 
 Paste your bot.name and bot.token from bot_father into application.properties file to link this code with your bot.
 
