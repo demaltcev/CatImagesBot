@@ -1,0 +1,6 @@
+com\example\CatImagBotProject\model\User.class
+com\example\CatImagBotProject\service\CatImagBot.class
+com\example\CatImagBotProject\config\BotInitializer.class
+com\example\CatImagBotProject\CatImagBotProjectApplication.class
+com\example\CatImagBotProject\config\BotConfig.class
+com\example\CatImagBotProject\model\UserRepository.class
